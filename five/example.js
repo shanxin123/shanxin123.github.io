@@ -1,0 +1,2 @@
+mood = "happy";
+alert (mood);
